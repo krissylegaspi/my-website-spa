@@ -1,4 +1,8 @@
 export default {
+  target: 'static',
+  router: {
+    base: '/my-website-spa/'
+  },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
