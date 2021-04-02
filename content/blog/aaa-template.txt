@@ -1,0 +1,40 @@
+---
+title: 
+date: Month Year
+description: 
+slug: 
+img: a.jpg
+tags: diary, adventure, fashion, advice, code
+---
+
+<img src="" width="720" />
+
+<p>
+    
+</p>
+
+<style>
+
+div {
+   text-align: justify;
+}
+
+p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+p1 {
+    font-weight: bold;
+}
+
+a {
+    font-style: italic;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+</style>

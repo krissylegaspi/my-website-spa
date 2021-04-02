@@ -1,0 +1,44 @@
+---
+title: Hacktech
+date: March 2020
+description: Hackathon hosted by Caltech. Weeks away from the event, there were news spreading about regarding the cancellation of this event. Gladly, they didn't because it would have affected numberous participants...
+slug: Hacktech
+img: hacktech.jpg
+tags: diary
+---
+
+<p>
+    Hackathon hosted by Caltech.
+</p>
+<p>
+    Weeks away from the event, there were news spreading about regarding the cancellation of this event. Gladly, they didn't because it would have affected numberous participants who booked their flights and hotel just to attend. Due to the COVID-19 pandemic, Hacktech was moved from taking place in Pasadena to being held virtually. Because I prefered the traditional approach to hackathons, I decided to not participate this year and instead work on my own projects.
+</p>
+<p>
+    I was saddened that I was not able to experience Hacktech but I am glad that they took safety precautions in order to help prevent the spread of the coronavirus.
+</p>
+
+<style>
+
+div {
+   text-align: justify;
+}
+
+p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+p1 {
+    font-weight: bold;
+}
+
+p2 {
+    font-style: italic;
+    color: black;
+}
+
+p2:hover {
+    text-decoration: underline;
+}
+
+</style>
