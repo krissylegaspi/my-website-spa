@@ -69,10 +69,11 @@ p5 {
 
 p6 {
     border-bottom: 1px pink solid;
+    color: gray;
     margin: auto;
     opacity: 1;
     font-family: 'Roboto Mono', monospace;
-    opacity: 70%;
+    /* opacity: 70%; */
     padding-top: 10px;
     padding-bottom: 10px;
     width: 100%;

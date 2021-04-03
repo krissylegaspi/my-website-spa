@@ -93,7 +93,7 @@ a {
 
 .article-inner .detail:hover {
     /* opacity: 80%; */
-    color: rgb(95, 95, 95);
+    color: pink;
 }
 
 h3 {

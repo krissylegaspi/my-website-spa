@@ -1,5 +1,7 @@
 # my-website-spa
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e4261a2-831f-4be2-b052-1be28d17584f/deploy-status)](https://app.netlify.com/sites/hardcore-sammet-70d375/deploys)
+
 ## Build Setup
 
 ```bash
