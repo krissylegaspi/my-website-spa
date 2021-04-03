@@ -7,8 +7,8 @@
             </a>
         </div>
         <article>
-            <h5>{{ article.title }}</h5>
-            <h6>{{ article.date }}</h6>
+            <p5>{{ article.title }}</p5>
+            <p6>{{ article.date }}</p6>
             <nuxt-content :document="article" id="text" />
         </article>
     </div>
@@ -57,16 +57,17 @@ article {
     max-width: 720px;
 }
 
-h5 {
+p5 {
     font-family: 'Homemade Apple', cursive;
     margin: auto;
     content: '';
     box-sizing: border-box;
     font-size: 30px;
     word-spacing: 0.32em;
+    font-weight: bold;
 }
 
-h6 {
+p6 {
     border-bottom: 1px pink solid;
     margin: auto;
     opacity: 1;
@@ -76,6 +77,7 @@ h6 {
     padding-bottom: 10px;
     width: 100%;
     font-size: 18px;
+    display: flex;
 }
 
 #text {

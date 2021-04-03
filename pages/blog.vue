@@ -11,7 +11,7 @@
                             <img :src="require(`~/assets/resources/${article.img}`)" alt="" />
                             <div class="detail">
                                 <h3>{{ article.title }}</h3>
-                                <h4>{{ article.date }}</h4>
+                                <p7>{{ article.date }}</p7>
                                 <p>{{ article.description }}</p>
                             </div>
                         </div>
@@ -92,7 +92,7 @@ a {
 }
 
 .article-inner .detail:hover {
-    opacity: 80%;
+    /* opacity: 80%; */
     color: rgb(95, 95, 95);
 }
 
@@ -105,13 +105,12 @@ h3 {
     padding-left: 8px;
 }
 
-h4 {
-    display: inline;
-    color: black;
-    opacity: 70%;
+p7 {
+    color: gray;
     text-decoration: none;
     float: right;
     padding-top: 10px;
+    font-weight: bold;
 }
 
 p {
