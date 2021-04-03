@@ -4,7 +4,7 @@ date: March 2018
 description: I'm not sure if I can officially say that I am back, but I have been on a long hiatus on this blog because I felt lost and I was unhappy with many things that I felt like I was unable to post any genuine content. The past year...
 slug: Hello-Again
 img: hello-again.jpg
-tags: diary
+category: diary
 ---
 
 <p>

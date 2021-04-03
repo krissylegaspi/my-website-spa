@@ -4,7 +4,7 @@ date: August 2015
 description: My friends and I went to La Jolla Cove to go snorkeling. I was very excited because I don't remember the last time I went snorkeling and I had just purchased new gear. The water was warm and it was awesome being...
 slug: Waves
 img: waves.jpg
-tags: diary
+category: diary
 ---
 
 <!-- ![Pic](https://1.bp.blogspot.com/-ziaoIL6o5f8/XJZ4SzsJpVI/AAAAAAAAAjI/DXyjLd7dgnYSFzhp4R8FiV_teL8shrBtACLcBGAs/s1600/11856337_10154085600172786_1954385680926179529_o.jpg) -->

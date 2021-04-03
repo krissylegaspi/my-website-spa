@@ -4,10 +4,11 @@ date: Month Year
 description: 
 slug: 
 img: a.jpg
-tags: diary, adventure, fashion, advice, code
+category: diary, adventure, fashion, advice, code
 ---
 
 <img src="" width="720" />
+<a href="#" target="_blank" id="p2"></a>
 
 <p>
     

@@ -4,7 +4,7 @@ date: November 2015
 description: My friends and I went to La Jolla Cove to go snorkeling. I was very excited because I don't remember the last time I went snorkeling and I had just purchased new gear. The water was warm and it was awesome being...
 slug: Morning-Hike
 img: hike.jpg
-tags: adventures
+category: adventures
 ---
 
 <img src="https://1.bp.blogspot.com/-zSRPtQqK9r4/XJZ17NOzXEI/AAAAAAAAAic/_u_qp02xECkU6lFHasW6I_0ZnheXaXdDACLcBGAs/s1600/11254514_10154321522312786_6829788261046692757_n.jpg" width="720" />

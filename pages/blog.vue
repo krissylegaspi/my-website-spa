@@ -1,32 +1,31 @@
 <template>
-<div>
-    <div class="blogintro">
-    I am grateful for all that I have learned and for all that I will learn. Welcome to this space where I can document my journey and share stories of victories, struggles, and everything in between!
-    </div>
-    <div class="blogs">
-        <div class="articles">
-            <div class="article" v-for="article of articles" :key="article.slug">
-                <nuxt-link :to="{ name: 'slug', params: { slug: article.slug } }">
-                <!-- <nuxt-link :to="article.path"> -->
-                    <div class="article-inner">
-                        <img :src="require(`~/assets/resources/${article.img}`)" alt="" />
-                        <div class="detail">
-                            <h3>{{ article.title }}</h3>
-                            <h4>{{ article.date }}</h4>
-                            <p>{{ article.description }}</p>
+    <div>
+        <div class="blogintro">
+        I am grateful for all that I have learned and for all that I will learn. Welcome to this space where I can document my journey and share stories of victories, struggles, and everything in between!
+        </div>
+        <div class="blogs">
+            <div class="articles">
+                <div class="article" v-for="article of articles" :key="article">
+                    <nuxt-link :to="{ name: 'slug', params: { slug: article.slug } }">
+                        <div class="article-inner">
+                            <img :src="require(`~/assets/resources/${article.img}`)" alt="" />
+                            <div class="detail">
+                                <h3>{{ article.title }}</h3>
+                                <h4>{{ article.date }}</h4>
+                                <p>{{ article.description }}</p>
+                            </div>
                         </div>
-                    </div>
-                </nuxt-link>
+                    </nuxt-link>
+                </div>
             </div>
         </div>
     </div>
-</div>
 </template>
 
 <script>
 export default {
     async asyncData({ $content, params }) {
-        const articles = await $content("blog")
+        const articles = await $content('blog', params.slug)
             .only(['title', 'date', 'description', 'img', 'slug'])
             .sortBy('createdAt', 'desc')
             // .sortBy('date', 'desc')
@@ -93,7 +92,8 @@ a {
 }
 
 .article-inner .detail:hover {
-    opacity: 60%;
+    opacity: 80%;
+    color: rgb(95, 95, 95);
 }
 
 h3 {

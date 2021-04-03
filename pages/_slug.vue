@@ -18,7 +18,6 @@
 export default {
     async asyncData({ $content, params }) {
         const article = await $content('blog', params.slug).fetch();
-        // const article = await $content(params.slug || "blog").fetch();
 
         return { article }
     },
@@ -48,7 +47,7 @@ export default {
 
 #icons:hover {
     color: pink;
-    opacity: 80%;
+    /* opacity: 80%; */
 }
 
 article {

@@ -4,7 +4,7 @@ date: January 2016
 description: Revisiting places is one of the things I like to do because I get to see the changes since the last time I was there. To me, it's another way to reflect because the place itself is not the only one that has changed - but the people too. Myself...
 slug: Keep-Warm-Stay-Trendy
 img: warm.jpg
-tags: fashion
+category: fashion
 ---
 
 <img src="https://1.bp.blogspot.com/-yYUb4jIqIJY/V1SbUu8paYI/AAAAAAAAAVI/rtMrIWCeG_EEhpvDKXRf6EUvDvpWgJ5TACLcB/s1600/IMG_0035.JPG" width="720" />

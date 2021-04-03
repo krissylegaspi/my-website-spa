@@ -4,7 +4,7 @@ date: March 2016
 description: I took my puppy, Nico, to the dog beach today! In the beginning, I was worried about having him go out in public because he will probably eat everything! But thankfully, he didn't! I wanted him to be exposed...
 slug: Nico
 img: nico.jpg
-tags: diary
+category: diary
 ---
 
 <p>

@@ -4,7 +4,7 @@ date: March 2016
 description: I started deleting Instagram photos. It might not be a big deal for many - but, for me, this was a step. I have been meaning to for a while now but I have always been one who had a hard time letting go of things, tangible or...
 slug: Take-A-Load-Off
 img: load.jpg
-tags: advice
+category: advice
 ---
 
 <div>

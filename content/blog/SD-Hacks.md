@@ -4,7 +4,7 @@ date: October 2019
 description: My first ever hackathon! I was very thrilled to attend this event because I was excited to experience a weekend-long hackathon filled with coding and surrounded with like-minded and passionate individuals. SD Hacks...
 slug: SD-Hacks
 img: sdhacks.jpg
-tags: code
+category: code
 ---
 
 <img src="" width="720" />

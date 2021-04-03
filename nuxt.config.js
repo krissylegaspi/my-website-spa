@@ -1,7 +1,18 @@
+// const createSiteMapRoutes = async () => {
+//   let routes = [];
+//   const { $content } = require('@nuxt/content')
+//   if (articles === null || article.length === 0)
+//     posts = await $content('blog').fetch();
+//   for (const article of articles) {
+//     routes.push(`blog/${article.slug}`);
+//   }
+//   return routes;
+// }
+
 export default {
   target: 'static',
   router: {
-    base: '/my-website-spa/'
+    // base: '/my-website-spa/'
   },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
@@ -85,7 +96,13 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // '@nuxtjs/sitemap', // always declare at the end of array
   ],
+  // sitemap: {
+  //   hostname: process.env.BASE_URL || 'http://localhost:3000',
+  //   gzip: true,
+  //   routes: createSiteMapRoutes
+  // },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},

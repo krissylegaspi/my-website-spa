@@ -4,7 +4,7 @@ date: March 2020
 description: Hackathon hosted by Caltech. Weeks away from the event, there were news spreading about regarding the cancellation of this event. Gladly, they didn't because it would have affected numberous participants...
 slug: Hacktech
 img: hacktech.jpg
-tags: diary
+category: diary
 ---
 
 <p>
