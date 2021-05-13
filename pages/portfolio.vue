@@ -59,7 +59,8 @@
             </div>
         </div>
 
-    <!-- Yams -->
+<!--
+    Yams 
         <div class="flip-container">
             <div class="flipper">
                 <div class="card_front">
@@ -79,7 +80,7 @@
         </div>
 
 
-    <!-- TreasureHunt -->
+    TreasureHunt 
         <div class="flip-container">
             <div class="flipper">
                 <div class="card_front">
@@ -98,7 +99,7 @@
             </div>
         </div>
 
-    <!-- IncomePrediction -->
+    IncomePrediction 
         <div class="flip-container">
             <div class="flipper">
                 <div class="card_front">
@@ -117,7 +118,7 @@
             </div>
         </div>
 
-    <!-- HandwritingRecognition -->
+    HandwritingRecognition 
         <div class="flip-container">
             <div class="flipper">
                 <div class="card_front">
@@ -136,8 +137,9 @@
                 </div>
             </div>
         </div>
-    </div>
+-->
 
+</div>
     <div class="title"><h1>School Projects</h1></div>
     <div class="cards">
     <!-- Multithreading -->
@@ -241,7 +243,30 @@
                 </div>
             </div>
         </div>
+    
+
+    <!-- AWS -->
+        <div class="flip-container">
+            <div class="flipper">
+                <div class="card_front">
+                    <div class="AWS"></div>
+                    <div class="center">
+                        <p><b style="color: rgb(255, 113, 137)">AWS</b></p>
+                        <p>EC2</p>
+                        <p>S3</p>
+                        <p>IAM</p>
+                        <p>BootStrap</p>
+                        <p>VPC</p>
+                    </div>
+                </div>
+                <div class="card_back">
+                    <p>Utilized the AWS Management Console to create multiple projects. Deployed a static website with S3 buckets and launched an EC2 WordPress instance using Amazon Machine Image and Ubuntu.</p>
+                    <button><a href="https://github.com/krissylegaspi/AWS" target="_blank">Github</a></button>
+                </div>
+            </div>
+        </div>
     </div>
+    
 
     <div class="title"><h1>Open Source Contributions</h1></div>
     <div class="links" id="bullet">

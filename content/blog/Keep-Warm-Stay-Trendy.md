@@ -1,4 +1,5 @@
 ---
+id: '0014'
 title: Keep Warm and Stay Trendy
 date: January 2016
 description: Revisiting places is one of the things I like to do because I get to see the changes since the last time I was there. To me, it's another way to reflect because the place itself is not the only one that has changed - but the people too. Myself...

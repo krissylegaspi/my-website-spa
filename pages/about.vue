@@ -8,7 +8,7 @@
                 </p>
             <h2>In the past</h2>
                 <p>
-                    I have worked as a <p1>Full Stack Software Developer</p1> at <a href="https://logosnews.tech/" target="_blank">Logos News LLC</a>. In a team of 15, I collaborated closely in developing a website that aims to provide a decentralized news platform in the new age of digital media. We used agile software development methods and I found a way to create a more efficient environment by suggesting a new process, which contributed to an <p1>overall improved structure</p1> of the virtual meetings. I built a detailed endorsement feature that specifies author ratings based on knowledge and skills by designing the user interface, analyzing data, and creating the algorithm. The goal was to improve the schema structure and integrate a detailed system.
+                    I have worked as a <p1>Software Developer Intern</p1> at <a href="https://logosnews.tech/" target="_blank">Logos News LLC</a>. In a team of 15, I collaborated closely in developing a website that aims to provide a decentralized news platform in the new age of digital media. We used agile software development methods and I built a detailed endorsement feature that specifies author ratings based on knowledge and skills by designing the user interface, analyzing data, and creating the algorithm. The goal was to improve the schema structure and integrate a detailed system.
                 </p>
                 <p>
                     When I was an <p1>Office Manager</p1>, I managed accounting and project management systems for multimillion-dollar operations through timely reporting, analytics, and execution of strategy that <p1>increased productivity by 50%</p1>. I led external financial audit reviews and prepared financial statements to assist external CPA.
@@ -38,10 +38,15 @@
             <h2>Right now</h2>
             
                 <p>
-                    I am actively applying to internships and jobs and prepping and studying for interviews.
+                    I am actively applying to internships while preparing and studying for interviews.
                 </p>
+
                 <p>
-                    I am learning how to code in C, Python, and Java through various university classes and R and C++ in my free time. 
+                    This Summer 2021, I will be joining the Product team at <a href="https://suzy.com/">Suzy</a> as a <p1>Product Engineer Intern</p1>.
+                </p>
+
+                <p>
+                    I am learning how to code in C, Python, and Java through various university classes and R in my free time. 
                 </p>
                 <p>
                     I am also <p1>contributing to open source projects</p1> and working on more personal projects to learn more languages and expand my programming knowledge and skills.
@@ -72,6 +77,7 @@
                         <li>California Notary Public, 2019-2023</li>
                     </ul>
                 </p>
+                <p></p>
                 <p>
                     Certificates:
                     <ul>

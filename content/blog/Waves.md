@@ -1,4 +1,5 @@
 ---
+id: '0012'
 title: Waves
 date: August 2015
 description: My friends and I went to La Jolla Cove to go snorkeling. I was very excited because I don't remember the last time I went snorkeling and I had just purchased new gear. The water was warm and it was awesome being...

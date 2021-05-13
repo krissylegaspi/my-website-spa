@@ -1,4 +1,5 @@
 ---
+id: '0001'
 title: High School
 date: 2010-2014
 description: International Baccalaureate Programme - I am an IB Diploma recipient. This program requires completion of - 2 High Level classes, 4 Standard Level classes, Theory of Knowledge (TOK) class, Extended Essay, and Creativity...
@@ -23,7 +24,7 @@ category: diary
     California Scholarship Federation: I would volunteer for community service hours 
 </p>
 <p>
-    <a href="https://www.youtube.com/user/gohsfps" target="_blank" id="p2">Film Production Society</a>: I created a film club and became Co-President with one of my friends. This inspired participation in film festivals.
+    <a href="https://www.youtube.com/user/gohsfps" target="_blank" id="p2">Film Production Society</a>: I am a Co-Founder and was Co-President with one of my friends. This inspired students to participate in film festivals outside of school, and some to pursue film after high school.
 </p>
 <p>
     Garden Club: I helped plant trees, fruits, and vegetables behind our school.

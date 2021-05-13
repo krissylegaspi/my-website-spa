@@ -1,4 +1,5 @@
 ---
+id: '0011'
 title: Anchor
 date: March 2015
 description: If there is one thing I would like to tell young people is this try to have at least one permanent fixture in your life that you can control. It is very easy to realize that we are “too mature” to do this or that - but believe...

@@ -1,4 +1,5 @@
 ---
+id: '0002'
 title: Guiding Principles
 date: Subject to change
 description: You will always be too much of something for someone - too big, too loud, too soft, too edgy. If you round out your edges, you lose your edge. Apologize for mistakes. Apologize for unintentionally hurting someone...

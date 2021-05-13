@@ -1,4 +1,5 @@
 ---
+id: ''
 title: 
 date: Month Year
 description: 
@@ -29,12 +30,12 @@ p1 {
     font-weight: bold;
 }
 
-a {
+p2 {
     font-style: italic;
     color: black;
 }
 
-a:hover {
+p2:hover {
     text-decoration: underline;
 }
 
