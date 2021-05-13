@@ -4,20 +4,20 @@
             <body>
             <h2>Hi, my name is Kristine</h2>
                 <p>
-                    I also go by Krissy. I can speak two languages (English and Filipino) and understand three fluently (English, Filipino, and Ilocano). I have high-level academic experience in Spanish and I am self-taught in Japanese. If my house was on fire and I could only save one thing, it would 
+                    I also go by Krissy. I can speak two languages (English and Filipino) and understand three fluently (English, Filipino, and Ilocano). I have high-level academic experience in Spanish and I am self-taught in Japanese.
                 </p>
             <h2>In the past</h2>
                 <p>
                     I have worked as a <p1>Software Developer Intern</p1> at <a href="https://logosnews.tech/" target="_blank">Logos News LLC</a>. In a team of 15, I collaborated closely in developing a website that aims to provide a decentralized news platform in the new age of digital media. We used agile software development methods and I built a detailed endorsement feature that specifies author ratings based on knowledge and skills by designing the user interface, analyzing data, and creating the algorithm. The goal was to improve the schema structure and integrate a detailed system.
                 </p>
                 <p>
-                    When I was an <p1>Office Manager</p1>, I managed accounting and project management systems for multimillion-dollar operations through timely reporting, analytics, and execution of strategy that <p1>increased productivity by 50%</p1>. I led external financial audit reviews and prepared financial statements to assist external CPA.
+                    When I was promoted to <p1>Office Manager</p1>, I managed accounting and project management systems for multimillion-dollar operations through timely reporting, analytics, and execution of strategy that <p1>increased productivity by 50%</p1>. I led external financial audit reviews and prepared financial statements to assist external CPA.
                 </p>
                 <p>
                     After undergrad, I started as an <p1>Accounting Specialist</p1>. I performed full cycle accounting and prepared month-end close through bank account reconciliations, general ledgers, and financial statement review and analysis. Through my documentation and creation of organization functions, I was able to <p1>improve efficiency by 40%</p1>. Weekly, I processed timecards, payroll, garnishments, and Certified Payroll and DIR Reports. I also created and ensured accurate reports of monthly union fringes for prevailing wage jobs.
                 </p>
                 <p>
-                    I have demonstrated leadership, time management, and planning skills from being the <p1>Vice President of Finance</p1> at University of California Riverside. I lead and supervised a team of 5 and I created timelines and annual budgets. We held weekly goal-setting meetings that I prepared for and facilitated. I <p1>raised $20,000</p1> towards the Alzheimer's Disease Research through a large organized event with an attendance of about 200 people.
+                    During undergrad, I have demonstrated leadership, time management, and planning skills from being the <p1>Vice President of Finance</p1> at University of California Riverside. I lead and supervised a team of 5 and I created timelines and annual budgets. We held weekly goal-setting meetings that I prepared for and facilitated. I <p1>raised $20,000</p1> towards the Alzheimer's Disease Research through a large organized event with an attendance of about 200 people.
                 </p>
                 <p>
                     As a <p1>Social Media Marketing Intern</p1> for <a href="https://CollegeFashionista.com" target="_blank">CollegeFashionista</a>, I contributed original content about the latest fashion trends to inspire over 33,000 college-aged followers. I designed and photographed stylish outfits to include in original article posts. I published articles and met monthly deadlines. Due to my diligence and success, I was fortunate enough to have been chosen to participate in their Ulta collaboration and was <p1>featured in <a href="https://www.collegefashionista.com/ulta-beauty-2/" target="_blank">this article</a></p1>.
