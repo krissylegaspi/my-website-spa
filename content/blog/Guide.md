@@ -76,7 +76,7 @@ category: advice
     "You can’t get much done in life if you only work on days when you feel good." - Jerry West
 </p>
 <p>
-    
+    If you never ask, the answer is always no.
 </p>
 <p>
     
