@@ -17,10 +17,13 @@ category: code
     There were many companies, such as Amazon AWS and Google Cloud. There were intermissions where we were introduced to the services that each companies provide and how their technologies can help our projects. 
 </p>
 <p>
-    There was a lot of catered food and competitive games such as TypeRacer, Speed Stacks, and SSBU. I won 2nd place for the typing competition, scoring above 140 Words Per Minute. I finally met someone who typed faster than I did.
+    There was a lot of catered food and competitive games such as TypeRacer, Speed Stacks, and SSBU. I won 2nd place for the typing competition, scoring above 140 Words Per Minute. I finally met someone who typed faster than I did!
 </p>
 <p>
-    We decided to build a health-related mobile application named <a href="https://github.com/krissylegaspi/SaltNPrepr" target="_blank" id="p2">SaltNPrepr</a>. This was my first exposure to React Native and any type of framework. It was a challenge but I was able to figure out the tech stack and contribute.
+    We decided to build a health-related mobile application named <a href="https://github.com/krissylegaspi/SaltNPrepr" target="_blank" id="p2">SaltNPrepr</a>. This was my team and I's first exposure to React Native. It was a challenge but we were able to figure it out.
+</p>
+<p>
+    While working on the project, we came across a difficulty with the API. Since most good APIs are paid for and we have limited funds, we had to test a few different APIs. Eventually, we decided to go with <a href="https://spoonacular.com/food-api" target="_blank" id="p2">Spoonacular API</a> as it provided us with the best amount of credits.
 </p>
 <p>
     <p1>Technologies:</p1> React Native, Firebase

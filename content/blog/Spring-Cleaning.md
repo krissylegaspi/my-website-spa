@@ -9,7 +9,7 @@ category: diary
 ---
 
 <p>
-    Spring has arrived and I am excited because this is my favorite season. I love watching the leaves grow back, the flowers bloom, and the warm sun kissing my skin. I am ready! A year has passed since the pandemic and a lot has changed.
+    Spring has arrived and I am excited because this is my favorite season. I love watching the leaves grow back, the flowers bloom, and the warm sun kissing my skin. I am ready! A year has passed since the pandemic emerged in our lives and a lot has changed.
 </p>
 <p>
     I have also noticed that I write more during this season. I have a blog post during March of each year. Maybe it's because it's my favorite season. Or maybe that I take this opportunity to reflect. Longer days are ahead of us and this is the time to see how we have done so far since the beginning of the year.
