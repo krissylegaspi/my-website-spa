@@ -2,7 +2,7 @@
   	<div>
 		<div class="index">
 			<div class="pfp">
-				<img src="../assets/profile-zoom.jpg" />
+				<img src="../assets/profile-new.jpg" />
 			</div>
 			<div class="tag">
 				<h1>{{ title }}</h1>
