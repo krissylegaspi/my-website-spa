@@ -2,6 +2,26 @@
 <div>
     <div class="title"><h1>Projects</h1></div>
     <div class="cards">
+    <!-- ReactChatbot -->
+        <div class="flip-container">
+            <div class="flipper">
+                <div class="card_front">
+                    <div class="ReactChatbot"></div>
+                    <div class="center">
+                        <p><b style="color: rgb(255, 113, 137)">React Chatbot</b></p>
+                        <p>React</p>
+                        <p>Dialogflow</p>
+                        <p>MongoDB</p>
+                    </div>
+                </div>
+                <div class="card_back">
+                    <p>A chatbot that uses Natural Language Processing using Dialogflow with a user interface on a website.</p>
+                    <button><a href="https://tinyurl.com/kglbot" target="_blank">Website</a></button>
+                    <button><a href="https://github.com/krissylegaspi/ReactChatbot" target="_blank">Github</a></button>
+                </div>
+            </div>
+        </div>
+
     <!-- SaltNPrepr -->
         <div class="flip-container">
             <div class="flipper">
@@ -464,6 +484,20 @@ body {
 .card_back button a {
     text-decoration: none;
     color: black;
+}
+
+.ReactChatbot {
+    position: relative;
+    height: 30%;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-image: url('../assets/Project/ReactChatbot/reactbot.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    transform: skewY(-6deg);
+    transform-origin: top-left;
 }
 
 .SaltNPrepr {
