@@ -58,7 +58,7 @@ category: advice
     All the effort you are making will ultimately pay off.
 </p>
 <p>
-    
+    Consistency is key.
 </p>
 
 <!------------------------- Career/School ------------------------->
