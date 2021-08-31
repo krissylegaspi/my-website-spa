@@ -81,8 +81,8 @@
                 <p>
                     Certificates:
                     <ul>
-                        <li><a href="/Legaspi_Kristine_CS50x.pdf" target="_blank">CS50 - Harvard University, 2020</a></li>
-                        <li><a href="/Legaspi_Kristine_SMC_Certificate2.pdf" target="_blank">Entry Level Programmer - Santa Monica College, 2020</a></li>
+                        <li><a href="./Legaspi_Kristine_CS50x.pdf" target="_blank">CS50 - Harvard University, 2020</a></li>
+                        <li><a href="./Legaspi_Kristine_SMC_Certificate2.pdf" target="_blank">Entry Level Programmer - Santa Monica College, 2020</a></li>
                     </ul>
                 </p>
             </body>

@@ -19,7 +19,7 @@
 					<a href="https://codepen.io/krissylegaspi" target="_blank">
 						<fa :icon="['fab', 'codepen']" id="icons" />
 					</a>
-					<a href="/Legaspi.Kristine.Resume.pdf" target="_blank">
+					<a href="./Legaspi.Kristine.Resume.pdf" target="_blank">
 						<fa :icon="['far', 'file-alt']" id="icons" />
 					</a>
 				</div>
