@@ -4,9 +4,12 @@
             <body>
             <h2>Hi, my name is Kristine</h2>
                 <p>
-                    I also go by Krissy. I can speak two languages (English and Filipino) and understand three fluently (English, Filipino, and Ilocano). I have high-level academic experience in Spanish and I am self-taught in Japanese.
+                    I also go by Krissy or Kris. I am a multilingual technologist aspiring to create solutions that can make our lives easier.
                 </p>
             <h2>In the past</h2>
+                <p>
+                    My summer internship as an <p1>Associate Product Manager/Product Engineer Intern</p1> at <a href="https://suzy.com/" target="_blank">Suzy</a> was a great experience! I learned a lot about how it was like as a PM and I was able to work among different PMs across different teams. I was also nominated as <p1>Team Lead</p1> for our intern project where I led my team to a successful presentation that helped the company jumpstart changes following our data-driven proposals.
+                </p>
                 <p>
                     I have worked as a <p1>Software Developer Intern</p1> at <a href="https://logosnews.tech/" target="_blank">Logos News LLC</a>. In a team of 15, I collaborated closely in developing a website that aims to provide a decentralized news platform in the new age of digital media. We used agile software development methods and I built a detailed endorsement feature that specifies author ratings based on knowledge and skills by designing the user interface, analyzing data, and creating the algorithm. The goal was to improve the schema structure and integrate a detailed system.
                 </p>
@@ -38,11 +41,7 @@
             <h2>Right now</h2>
             
                 <p>
-                    I am actively applying to internships while preparing and studying for interviews.
-                </p>
-
-                <p>
-                    This Summer 2021, I will be joining the Product team at <a href="https://suzy.com/">Suzy</a> as a <p1>Product Engineer Intern</p1>.
+                    I am actively applying to internships and full-time positions while preparing for interviews and pursuing my Master's Degree in Computer Science part-time.
                 </p>
 
                 <p>
@@ -63,9 +62,10 @@
                 <p>
                     My favorite <a href="https://www.goodreads.com/user/show/6712300-kristine" target="_blank">reads</a> are:
                     <ul>
-                        <li>Fahrenheit 451 by Ray Bradbury</li>
+                        <li>The Design of Everyday Things by Don Norman</li>
+                        <li>Swipe to Unlock: The Primer on Technology</li>
+                        <li>Talking to Straingers by Malcolm Gladwell</li>
                         <li>1984 by George Orwell</li>
-                        <li>The Giver by Lois Lowry</li>
                     </ul>
                 </p>
             
